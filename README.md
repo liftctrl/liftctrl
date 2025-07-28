@@ -10,7 +10,7 @@
   </ul>
 </div>
 
- **<h3 align="center">Skills</h3>**
+ **<h3 align="left">Skills</h3>**
 
 <table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=docker" height="28" alt="Docker"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=kubernetes" height="28" alt="Kubernetes"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=ansible" height="28" alt="Ansible"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=jenkins" height="28" alt="Jenkins"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=gitlab" height="28" alt="GitLab CI"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="GitHub Actions"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=terraform" height="28" alt="Terraform"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bash" height="28" alt="Bash"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=mysql" height="28" alt="MySQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=elasticsearch" height="28" alt="Elasticsearch"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=redis" height="28" alt="Redis"/></td></table>
 
