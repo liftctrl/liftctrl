@@ -1,22 +1,72 @@
-![👋 Hi, my name is yangxianzhan](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+<br clear="both">
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is yangxianzhan
-      </h1>
-    </summary>
-  </ul>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=liftctrl.liftctrl&"  />
 </div>
 
- **<h3 align="left">Skills</h3>**
+###
 
-<table style="width: 100%; border: 0px solid white;"><tr><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=docker" height="28" alt="Docker"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=kubernetes" height="28" alt="Kubernetes"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=ansible" height="28" alt="Ansible"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=jenkins" height="28" alt="Jenkins"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=gitlab" height="28" alt="GitLab CI"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=githubactions" height="28" alt="GitHub Actions"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=terraform" height="28" alt="Terraform"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=bash" height="28" alt="Bash"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=mysql" height="28" alt="MySQL"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=elasticsearch" height="28" alt="Elasticsearch"/></td><td style="text-align: center; border: 0px; padding: 12px;"><img src="https://skillicons.dev/icons?i=redis" height="28" alt="Redis"/></td></table>
+<p align="left">My name is xianzhan-yang</p>
 
- **<h3 align="left">GitHub Stats</h3>**
+###
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=liftctrl&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=liftctrl&theme=default&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-</p>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">📚 I'm currently learning English and DevOps<br>🎯 Goals: Become DevOps Engineer</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=liftctrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=liftctrl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
